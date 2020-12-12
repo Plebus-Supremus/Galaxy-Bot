@@ -3,7 +3,7 @@ Discord bot developed by Plebus Supremus#1234
 Plebus Supremus (a.k.a Pleb) is also a verified bot developer with the verified bot being a bot named 'Trident'
 Trident has been abandoned due to certain reasons that can't be said publicly.
 Join our server if you get any errors or have any doubts, or want to contact with the developer. 
-Link: https://discord.gg/discord.gg/6kTm5aH2fm
+Link: https://discord.gg/6kTm5aH2fm
 """
 
 # Imports
